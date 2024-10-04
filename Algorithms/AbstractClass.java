@@ -4,7 +4,7 @@ abstract class Book{
 	abstract void setTitle(String s);
 	String getTitle(){
 		return title;
-	}
+	} 
 }
 
 
